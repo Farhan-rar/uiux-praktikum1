@@ -1,1 +1,2 @@
 line 1 in branch feature-1
+line 2 in branch feature-2
